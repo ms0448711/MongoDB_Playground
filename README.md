@@ -17,4 +17,7 @@ A gui program that can visualize your databases and collections. (It would ask y
 
 # To Familiar with MongoDB
 
-## 
+## Level of Structure
+In MySQL, the structures are **database、table、row of data**, whereas in MongoDB, the structures are **database、collection、document**.
+
+
