@@ -20,6 +20,7 @@ A gui program that can visualize your databases and collections. (It would ask y
 
 ## Level of Structure
 In MySQL, the structures are **database、table、row of data**, whereas in MongoDB, the structures are **database、collection、document**.
+
 [什麼是SQL？什麼是NOSQL? 用簡單範例看一下他們的差異](https://www.codegym.tech/blog/sql-vs-nosql)
 
 [閃開！讓專業的來：SQL 與 NoSQL](https://ithelp.ithome.com.tw/articles/10187443)
@@ -27,6 +28,16 @@ In MySQL, the structures are **database、table、row of data**, whereas in Mong
 
 # How to use Mongosh 
 [mongosh Usage](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
+
+[[MongoDB] 學習筆記(一) - 安裝、基礎CRUD、外部輸入資料、Data Type](https://medium.com/@mingjiehsu/mongodb-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%B8%80-%E5%AE%89%E8%A3%9D-%E5%9F%BA%E7%A4%8Ecrud-%E5%A4%96%E9%83%A8%E8%BC%B8%E5%85%A5%E8%B3%87%E6%96%99-data-type-1169000cf02c)
+
+## Activate Service (Put your server online)
+```
+net start MongoDB
+
+
+net stop MongoDB
+```
 
 ## Connect to Deployment(Mongosh)
 tl;dr
