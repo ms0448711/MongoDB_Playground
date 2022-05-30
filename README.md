@@ -33,8 +33,8 @@ In MySQL, the structures are **database、table、row of data**, whereas in Mong
 
 ## Activate Service (Put your server online)
 ```
-net start MongoDB /* To start the server */
-net stop MongoDB /*To close the server */
+net start MongoDB   #To start the server 
+net stop MongoDB    #To close the server 
 ```
 
 ## Connect to Deployment(Mongosh)
