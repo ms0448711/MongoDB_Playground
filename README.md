@@ -21,6 +21,7 @@ A gui program that can visualize your databases and collections. (It would ask y
 ## Level of Structure
 In MySQL, the structures are **database、table、row of data**, whereas in MongoDB, the structures are **database、collection、document**.
 [什麼是SQL？什麼是NOSQL? 用簡單範例看一下他們的差異](https://www.codegym.tech/blog/sql-vs-nosql)
+
 [閃開！讓專業的來：SQL 與 NoSQL](https://ithelp.ithome.com.tw/articles/10187443)
 
 
