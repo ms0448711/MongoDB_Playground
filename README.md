@@ -24,14 +24,13 @@ In MySQL, the structures are **database、table、row of data**, whereas in Mong
 [閃開！讓專業的來：SQL 與 NoSQL](https://ithelp.ithome.com.tw/articles/10187443)
 
 
-# How to use Mongosh [Link](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
+# How to use Mongosh 
+[mongosh Usage](https://www.mongodb.com/docs/mongodb-shell/run-commands/)
 
 ## Connect to Deployment(Mongosh)
 tl;dr
 Type `mongosh` or `mongosh "mongodb://localhost:27017"` or `mongosh --port 27017` to connect.
 Type `exit` or `quit` to disconnect.
-
-## 
 
 [Authentication, Replica, tls, etc.](https://www.mongodb.com/docs/mongodb-shell/connect/#std-label-mdb-shell-connect)
 
