@@ -39,8 +39,11 @@ net stop MongoDB    #To close the server
 
 ## Connect to Deployment(Mongosh)
 tl;dr
+
 Type `mongosh` or `mongosh "mongodb://localhost:27017"` or `mongosh --port 27017` to connect.
+
 Type `exit` or `quit` to disconnect.
+
 
 [Authentication, Replica, tls, etc.](https://www.mongodb.com/docs/mongodb-shell/connect/#std-label-mdb-shell-connect)
 
