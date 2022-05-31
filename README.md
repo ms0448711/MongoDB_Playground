@@ -48,7 +48,8 @@ Type `exit` or `quit` to disconnect.
 [Authentication, Replica, tls, etc.](https://www.mongodb.com/docs/mongodb-shell/connect/#std-label-mdb-shell-connect)
 
 # ASP .net core with MongoDB
-[tutorial](https://docs.microsoft.com/zh-tw/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio)
+You can follow the [tutorial](https://docs.microsoft.com/zh-tw/aspnet/core/tutorials/first-mongo-app?view=aspnetcore-6.0&tabs=visual-studio) to learn how to use ASP .net core with Mongodb. If you use the IHostBuilder to build website, you may check [this](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-6.0) for more information.
+
 
 
 
